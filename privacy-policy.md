@@ -31,4 +31,4 @@ Efforts are made to secure SpongeBot and its hosting environment to prevent unau
 The Bot owner reserves the right to update this Privacy Policy at any time. Changes will be communicated through SpongeBot’s support channels or documentation.
 
 8. Contact Information
-For questions or concerns about this Privacy Policy, please contact the Bot owner at [your contact email or Discord handle].
+For questions or concerns about this Privacy Policy, please contact the Bot owner @squintwartt on discord.
